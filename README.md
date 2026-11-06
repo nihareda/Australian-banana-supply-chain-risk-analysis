@@ -28,7 +28,7 @@ This project brings together production, regional and weather information to exp
 
 The Excel workbook contains the analysis, calculations, visualisations, scenario work and supporting notes:
 
-**File:** `From_Farm_to_Shelf_Banana_Supply_Risk_Analysis_v2.xlsx`
+**File:** `From_Farm_to_Shelf_Banana_Supply_Risk_Analysis.xlsx`
 
 The workbook is designed to make the data and assumptions transparent, with source notes and limitations included.
 
