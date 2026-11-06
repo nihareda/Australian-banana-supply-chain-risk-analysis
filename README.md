@@ -24,6 +24,16 @@ This project brings together production, regional and weather information to exp
 - The project uses the December 2023 Severe Tropical Cyclone Jasper event as a weather-related disruption case study, including heavy rainfall, flooding and access challenges.
 - A **34% supply-loss scenario** is included as an illustrative stress test. It is not a measured loss from Jasper, a forecast or a prediction.
 
+## Project visualisations
+
+### Australian banana production trend
+
+![Australian banana production trend](banana-production-trend.png)
+
+### Supply-chain risk analysis
+
+![Banana supply-chain risk analysis](banana-supply-risk.png)
+
 ## Workbook
 
 The Excel workbook contains the analysis, calculations, visualisations, scenario work and supporting notes:
